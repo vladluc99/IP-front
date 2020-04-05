@@ -70,6 +70,15 @@ footer h3 {
     height: 80vh;
 }
 
+.forgot-link {
+    text-align: center;
+}
+
+.forgot-link a {
+    color: black;
+    font-weight: bold;
+}
+
 .content {
     width: 30%;
     height: 55vh;
